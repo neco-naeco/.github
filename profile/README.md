@@ -45,13 +45,7 @@ AI 게임 마스터와 함께하는 턴제 릴레이 코딩 플랫폼
 
 ![시스템 아키텍처](./assets/system-architecture.png)
 
-## 시연 영상
 
-- [YouTube 시연영상](https://www.youtube.com/watch?v=54-lugK3rK4)
-
-## 발표 자료
-
-- [프로젝트 계획서 PPT](./assets/project-plan.pptx)
 
 ## 기술 스택
 
@@ -84,6 +78,14 @@ AI 게임 마스터와 함께하는 턴제 릴레이 코딩 플랫폼
 | 이수현 | Back-end |
 | 임현 | Front-end |
 | 심정화 | Back-end |
+
+## 시연 영상
+
+- [YouTube 시연영상](https://www.youtube.com/watch?v=54-lugK3rK4)
+
+## 발표 자료
+
+- [프로젝트 계획서 PPT](./assets/project-plan.pptx)
 
 ## GitHub
 
